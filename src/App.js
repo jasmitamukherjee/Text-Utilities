@@ -58,7 +58,7 @@ function App() {
    
   
 
-   <Route exact path="/" element={ <TextForm showAlert={showAlert} heading="Try Text Utilities- Word Counter, Character Counter, Case Changer" mode={mode}/>}/>
+   <Route exact path="/" element={ <TextForm showAlert={showAlert} heading="Try Text Utilities-Word Counter, Character Counter, Case Changer" mode={mode}/>}/>
     <Route exact path="/about" element={<About mode={mode}/>}/>
 
     
