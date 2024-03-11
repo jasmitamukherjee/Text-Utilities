@@ -29,16 +29,19 @@ cd react-text-utilities
 
 
 3. Install dependencies using npm or yarn.
-``` npm install
+```
+ npm install
 ```
 
 or 
-``` yarn install
+```
+ yarn install
 ```
 
 
 4. Start the development server.
-```npm start
+```
+npm start
 
 ```
 or
