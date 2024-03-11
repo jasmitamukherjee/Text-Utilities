@@ -16,33 +16,36 @@ This React application provides a convenient set of text utilities to manipulate
 To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine.
+```
 git clone https://github.com/your-username/react-text-utilities.git
+```
 
-css
-Copy code
+
 2. Navigate to the project directory.
+```
 cd react-text-utilities
+```
 
-arduino
-Copy code
+
+
 3. Install dependencies using npm or yarn.
-npm install
+``` npm install
+```
 
-Copy code
-or
-yarn install
+or 
+``` yarn install
+```
 
-markdown
-Copy code
+
 4. Start the development server.
-npm start
+```npm start
 
-Copy code
+```
 or
+```
 yarn start
+```
 
-markdown
-Copy code
 5. Open your browser and go to `http://localhost:3000` to view the application.
 
 ## Usage
